@@ -6,6 +6,8 @@ I gonna create IPSec VPN by manual add static xfrm state
 and xfrm policy, in this article I gonna setup an IPSec
 VPN, that server with a public IP, but EP under a nat.
 
+*You can use generate_xfrm.py to generate xfrm state and poliy add cmd*
+
 ## Topology
 
 ```
